@@ -10,7 +10,7 @@ Code Board is deployed on [www.CodeBoard.tech](www.CodeBoard.tech).
 
 ## Presentation
 
-https://www.youtube.com/watch?v=gg69CkBtZwo&feature=youtu.be
+https://www.youtube.com/watch?v=gg69CkBtZwo
 
 ## Getting Started for Developers
 
